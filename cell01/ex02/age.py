@@ -1,8 +1,10 @@
 '''age'''
 def main():
     '''main'''
-    my_age = 19 + 42
-
+    age = 19
+    add = 42
+    my_age = age + add
+    
     print(my_age)
 
 main()
